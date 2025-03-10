@@ -22,8 +22,8 @@ int main() {
 
 
 
-    //Fiz a separção usando um código para cada carta, com isso o código ficou mais extenso, porém achei mais didático.
-    //Usei todos os códigos que foram ensinados em aula, apenas o código para nomes compostos que fiz uma pesquisa.
+    //Fiz a separação usando um código para cada carta, com isso o código ficou mais extenso, porém achei mais didático.
+    //Usei todos os códigos que foram ensinados em aula, exceto o código para nomes das cidades, que fiz uma pesquisa.
     //Na pesquisa também encontrei os códigos: fgets e getchar. Pórem quando rodei o código com o "%[^\n]", apenas adicinei um "Espaços" para limpar o buffer.
     //Segue o código abaixo:
 
