@@ -25,6 +25,7 @@ int main() {
     //Fiz a separação usando um código para cada carta, com isso o código ficou mais extenso, porém achei mais didático.
     //Usei todos os códigos que foram ensinados em aula, exceto o código para nomes das cidades, que fiz uma pesquisa.
     //Na pesquisa também encontrei os códigos: fgets e getchar. Pórem quando rodei o código com o "%[^\n]", apenas adicinei um "Espaços" para limpar o buffer.
+    //Adicionei uma notação cientifica para mostrar o número de forma inteira na hora de calcular o PIB per capita: "1e9"
     //Segue o código abaixo:
 
 
